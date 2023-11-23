@@ -6,7 +6,7 @@ As a software engineer seeking continuous learning, this project was undertaken 
 
 The software presents users with a series of decisions, each impacting their character assignment. The project serves as an opportunity to practice C++ programming, decision-based logic, and randomization within a console environment.
 
-Check out the [Software Demo Video](http://youtube.link.goes.here) for a 4-5 minute walkthrough of the software in action, including a demonstration of its functionality and a brief overview of the code.
+Check out the [Software Demo Video](https://youtu.be/JpXamyctBVE) for a 4-5 minute walkthrough of the software in action, including a demonstration of its functionality and a brief overview of the code.
 
 # Development Environment
 
